@@ -27,8 +27,8 @@ with tabs[2]:
     st.bar_chart(df['Volume'])
 
 with tabs[3]:
-    st.subheader(f"Happy Birthday!!! Happy birthday to you,
+    st.subheader(f"""Happy Birthday!!! Happy birthday to you,
 Happy birthday to you,
 Happy birthday dear Reader,
-Happy birthday to you.")
+Happy birthday to you.""")
     
